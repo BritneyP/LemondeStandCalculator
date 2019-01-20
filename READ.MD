@@ -20,3 +20,11 @@ print(profit)
 pay_per_hour= profit/num_hours_worked
 print(pay_per_hour)
 print("You made ${}, or ${} per hour.".format(profit, profit/ num_hours_worked))
+
+
+
+Revenue: 35
+Expenses: 60.0
+-25.0
+-2.5
+You made $-25.0, or $-2.5 per hour.
